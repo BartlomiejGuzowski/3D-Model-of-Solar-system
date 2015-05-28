@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Game Engine Assigment\Assets\Boid.cs">
+    <Files>
+      <File FileName="..\Game Engine Assigment\Game Engine Assigment.sln" Line="1" Column="1" />
+      <File FileName="..\Game Engine Assigment\Assets\Boid.cs" Line="121" Column="2" />
+      <File FileName="..\Game Engine Assigment\Assets\Intro.cs" Line="10" Column="3" />
+      <File FileName="c:\Users\bartlomiej\Documents\Final year Project\Assets\Menu.cs" Line="6" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
